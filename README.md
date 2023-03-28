@@ -8,4 +8,4 @@ AngouPixel is an open source pixel font designed by [@0xLuo](https://twitter.com
 
 ![Image](https://github.com/0xLuo/AngouPixel-Fonts/blob/main/images/AngouPixel-2.jpg)
 
-Welcome everyone to use it anywhere. Let me know if you want me to update some symbols.
+Welcome everyone to use it anywhere. Let me know if you want me to update some characters.
