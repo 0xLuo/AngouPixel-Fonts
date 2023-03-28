@@ -4,7 +4,7 @@
 
 AngouPixel is an open source pixel font designed by [@0xLuo](https://twitter.com/0xLuo) using [Glyphs3](https://glyphsapp.com/).
 
-"Angou" means "暗号" in Japanese. This pixel font uses 3x5 dot matrix (some smaller or larger) and covers English letters (A-Z, a-z), numbers (0-9), and common punctuation marks. (Some special English symbols are waiting for you to discover.)
+"Angou" means "暗号" in Japanese, which means crypto (you know what I mean). This pixel font uses 3x5 dot matrix (some smaller or larger) and covers English letters (A-Z, a-z), numbers (0-9), and common punctuation marks. (Some special English symbols are waiting for you to discover.)
 
 ![Image](https://github.com/0xLuo/AngouPixel-Fonts/blob/main/images/AngouPixel-2.jpg)
 
